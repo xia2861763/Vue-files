@@ -1,0 +1,10 @@
+1.熟悉W3C标准，对ES6-7有深刻了解，对表现与数据分离、Web语义化等有深刻理解，精通HTML5、CSS3、js、Ajax ，JSON；
+2.熟悉各种Web前端技术，理解Web开发原理，精通Web2.0标准；
+3.熟悉常见的前端框架、库、工具， 如：AngularJS、jQuery、React等 熟悉webpack，gulp，grunt等构件工具的一种或多种；
+4.熟悉ionic、cordova、Angular、React Native、 Weex，Vue等框架进行混合APP开发；
+5.至少熟悉一门后端程序语言（如java、node.js、c、php、go、python 等)；
+6.有响应式布局开发页面性能优化经验，熟悉软件项目开发流程及开发方法；
+7. 熟悉小程序开发（微信或者支付宝小程序）；
+8.至少熟悉并使用一种前端主流技术框架（AngularJS、Vue、React）；   
+
+必须学习并掌握：ES6（前端语言工具），React（前端技术框架），webpack（构建工具），java或者node js(服务器端语言)，
