@@ -8,3 +8,5 @@
 8.至少熟悉并使用一种前端主流技术框架（AngularJS、Vue、React）；   
 
 必须学习并掌握：ES6（前端语言工具），React（前端技术框架），webpack（构建工具），java或者node js(服务器端语言)，
+
+加油加油
